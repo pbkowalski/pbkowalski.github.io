@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll! 4"
+title: "Explainability"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Projects
 tags:
   - Jekyll
   - update
