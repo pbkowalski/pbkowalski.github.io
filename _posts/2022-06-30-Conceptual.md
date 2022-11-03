@@ -4,6 +4,7 @@ categories:
   - Projects
 tags:
   - Conceptual graphs
+hidden: true
 ---
 
 ## Description

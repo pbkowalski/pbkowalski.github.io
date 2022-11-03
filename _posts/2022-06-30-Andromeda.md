@@ -7,6 +7,7 @@ tags:
   - information fusion
   - deep learning
   - belief functions
+hidden: true
 usemathjax: true
 
 ---
