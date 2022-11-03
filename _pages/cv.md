@@ -1,5 +1,5 @@
 ---
 permalink: /cv/
-title: "Ciricullum Vitae"
+title: "Curriculum vitae"
 ---
-A 1 page CV can be found [here]()
+A short CV can be found [here](assets/Kowalski_cv.pdf)
