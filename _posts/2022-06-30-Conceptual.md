@@ -5,6 +5,7 @@ categories:
 tags:
   - Conceptual graphs
 hidden: true
+published: false
 ---
 
 ## Description
